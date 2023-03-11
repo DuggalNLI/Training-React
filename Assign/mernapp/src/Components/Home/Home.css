@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+
+.home {
+    margin-left: 30rem;
+    margin-top: 7rem;
+}
+
+.logout-btn{
+    margin-top: 2rem;
+    margin-left: 8rem;
+    
+}
