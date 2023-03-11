@@ -1,0 +1,10 @@
+.card{
+ width: 22%;
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ padding: 2px 16px;
+ margin: 20px;
+ float: left;
+}
+.card:hover{
+    transition: 0.3s;
+}
